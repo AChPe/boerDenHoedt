@@ -1,0 +1,1583 @@
+{
+    "result": [
+    {
+        "t": 30,
+        "h": 76,
+        "rad": 0,
+        "hour": 0,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 0,
+        "h": 75,
+        "rad": 0,
+        "hour": 1,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 74,
+        "rad": 0,
+        "hour": 2,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 73,
+        "rad": 0,
+        "hour": 3,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 70,
+        "rad": 0,
+        "hour": 4,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 66,
+        "rad": 0,
+        "hour": 5,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 63,
+        "rad": 0,
+        "hour": 6,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 61,
+        "rad": 0,
+        "hour": 7,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 0,
+        "h": 59,
+        "rad": 0,
+        "hour": 8,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 0,
+        "h": 57,
+        "rad": 0,
+        "hour": 9,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 1,
+        "h": 58,
+        "rad": 8.11180270325178,
+        "hour": 10,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 1,
+        "h": 60,
+        "rad": 60.7140504575587,
+        "hour": 11,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 61,
+        "rad": 101.598589121548,
+        "hour": 12,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 66,
+        "rad": 125.859659109251,
+        "hour": 13,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 71,
+        "rad": 131.14899607537,
+        "hour": 14,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 76,
+        "rad": 116.934138229699,
+        "hour": 15,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 79,
+        "rad": 84.6261734930145,
+        "hour": 16,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 83,
+        "rad": 37.3692493626139,
+        "hour": 17,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 87,
+        "rad": 0,
+        "hour": 18,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 1,
+        "h": 89,
+        "rad": 0,
+        "hour": 19,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 1,
+        "h": 91,
+        "rad": 0,
+        "hour": 20,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 0,
+        "h": 93,
+        "rad": 0,
+        "hour": 21,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 1,
+        "h": 93,
+        "rad": 0,
+        "hour": 22,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 1,
+        "h": 93,
+        "rad": 0,
+        "hour": 23,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 93,
+        "rad": 0,
+        "hour": 0,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 93,
+        "rad": 0,
+        "hour": 1,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 94,
+        "rad": 0,
+        "hour": 2,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 94,
+        "rad": 0,
+        "hour": 3,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 93,
+        "rad": 0,
+        "hour": 4,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 91,
+        "rad": 0,
+        "hour": 5,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 90,
+        "rad": 0,
+        "hour": 6,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 88,
+        "rad": 0,
+        "hour": 7,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 86,
+        "rad": 0,
+        "hour": 8,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 83,
+        "rad": 0,
+        "hour": 9,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 4,
+        "h": 81,
+        "rad": 8.26302782400036,
+        "hour": 10,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 4,
+        "h": 78,
+        "rad": 61.0182665483093,
+        "hour": 11,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 5,
+        "h": 75,
+        "rad": 102.064270567762,
+        "hour": 12,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 5,
+        "h": 75,
+        "rad": 126.494689712753,
+        "hour": 13,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 6,
+        "h": 76,
+        "rad": 131.944721263167,
+        "hour": 14,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 6,
+        "h": 76,
+        "rad": 117.865028972002,
+        "hour": 15,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 6,
+        "h": 78,
+        "rad": 85.6555613589383,
+        "hour": 16,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 5,
+        "h": 80,
+        "rad": 38.4421490887188,
+        "hour": 17,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 5,
+        "h": 82,
+        "rad": 0,
+        "hour": 18,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 4,
+        "h": 83,
+        "rad": 0,
+        "hour": 19,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 4,
+        "h": 84,
+        "rad": 0,
+        "hour": 20,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 85,
+        "rad": 0,
+        "hour": 21,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 86,
+        "rad": 0,
+        "hour": 22,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 4,
+        "h": 87,
+        "rad": 0,
+        "hour": 23,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 4,
+        "h": 87,
+        "rad": 0,
+        "hour": 0,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 88,
+        "rad": 0,
+        "hour": 1,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 88,
+        "rad": 0,
+        "hour": 2,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 89,
+        "rad": 0,
+        "hour": 3,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 89,
+        "rad": 0,
+        "hour": 4,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 90,
+        "rad": 0,
+        "hour": 5,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 91,
+        "rad": 0,
+        "hour": 6,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 91,
+        "rad": 0,
+        "hour": 7,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 4,
+        "h": 91,
+        "rad": 0,
+        "hour": 8,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 4,
+        "h": 91,
+        "rad": 0,
+        "hour": 9,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 5,
+        "h": 88,
+        "rad": 8.46747497898803,
+        "hour": 10,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 5,
+        "h": 85,
+        "rad": 61.383609817734,
+        "hour": 11,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 6,
+        "h": 83,
+        "rad": 102.593209911339,
+        "hour": 12,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 6,
+        "h": 83,
+        "rad": 127.193579789855,
+        "hour": 13,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 6,
+        "h": 83,
+        "rad": 132.803205800522,
+        "hour": 14,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 7,
+        "h": 83,
+        "rad": 118.855866429882,
+        "hour": 15,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 6,
+        "h": 85,
+        "rad": 86.7408047263644,
+        "hour": 16,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 6,
+        "h": 86,
+        "rad": 39.5664910236198,
+        "hour": 17,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 6,
+        "h": 88,
+        "rad": 0,
+        "hour": 18,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 5,
+        "h": 88,
+        "rad": 0,
+        "hour": 19,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 5,
+        "h": 89,
+        "rad": 0,
+        "hour": 20,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 4,
+        "h": 90,
+        "rad": 0,
+        "hour": 21,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 4,
+        "h": 90,
+        "rad": 0,
+        "hour": 22,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 4,
+        "h": 90,
+        "rad": 0,
+        "hour": 23,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 5,
+        "h": 91,
+        "rad": 0,
+        "hour": 0,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 5,
+        "h": 90,
+        "rad": 0,
+        "hour": 1,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 5,
+        "h": 90,
+        "rad": 0,
+        "hour": 2,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 5,
+        "h": 90,
+        "rad": 0,
+        "hour": 3,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 5,
+        "h": 89,
+        "rad": 0,
+        "hour": 4,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 5,
+        "h": 88,
+        "rad": 0,
+        "hour": 5,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 5,
+        "h": 88,
+        "rad": 0,
+        "hour": 6,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 5,
+        "h": 84,
+        "rad": 0,
+        "hour": 7,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 6,
+        "h": 80,
+        "rad": 0,
+        "hour": 8,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 6,
+        "h": 76,
+        "rad": 0,
+        "hour": 9,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 7,
+        "h": 73,
+        "rad": 8.72546615706942,
+        "hour": 10,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 7,
+        "h": 70,
+        "rad": 61.8100986694146,
+        "hour": 11,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 7,
+        "h": 67,
+        "rad": 103.185284454171,
+        "hour": 12,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 8,
+        "h": 66,
+        "rad": 127.956075347481,
+        "hour": 13,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 8,
+        "h": 65,
+        "rad": 133.724068101632,
+        "hour": 14,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 8,
+        "h": 65,
+        "rad": 119.906149508611,
+        "hour": 15,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 8,
+        "h": 66,
+        "rad": 87.8813068120635,
+        "hour": 16,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 8,
+        "h": 67,
+        "rad": 40.7417701007395,
+        "hour": 17,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 7,
+        "h": 68,
+        "rad": 0,
+        "hour": 18,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 7,
+        "h": 70,
+        "rad": 0,
+        "hour": 19,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 7,
+        "h": 71,
+        "rad": 0,
+        "hour": 20,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 6,
+        "h": 73,
+        "rad": 0,
+        "hour": 21,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 5,
+        "h": 72,
+        "rad": 0,
+        "hour": 22,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 4,
+        "h": 72,
+        "rad": 0,
+        "hour": 23,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 72,
+        "rad": 0,
+        "hour": 0,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 73,
+        "rad": 0,
+        "hour": 1,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 75,
+        "rad": 0,
+        "hour": 2,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 77,
+        "rad": 0,
+        "hour": 3,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 78,
+        "rad": 0,
+        "hour": 4,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 80,
+        "rad": 0,
+        "hour": 5,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 81,
+        "rad": 0,
+        "hour": 6,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 82,
+        "rad": 0,
+        "hour": 7,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 82,
+        "rad": 0,
+        "hour": 8,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 83,
+        "rad": 0,
+        "hour": 9,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 78,
+        "rad": 9.03734758769415,
+        "hour": 10,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 73,
+        "rad": 62.297724468951,
+        "hour": 11,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 4,
+        "h": 68,
+        "rad": 103.840342502606,
+        "hour": 12,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 4,
+        "h": 68,
+        "rad": 128.781894160024,
+        "hour": 13,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 4,
+        "h": 67,
+        "rad": 134.70689966883,
+        "hour": 14,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 4,
+        "h": 67,
+        "rad": 121.015351790812,
+        "hour": 15,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 3,
+        "h": 71,
+        "rad": 89.0764471310655,
+        "hour": 16,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 74,
+        "rad": 41.9674812389111,
+        "hour": 17,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 1,
+        "h": 78,
+        "rad": 0,
+        "hour": 18,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 0,
+        "h": 78,
+        "rad": 0,
+        "hour": 19,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 77,
+        "rad": 0,
+        "hour": 20,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 77,
+        "rad": 0,
+        "hour": 21,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -2,
+        "h": 75,
+        "rad": 0,
+        "hour": 22,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -2,
+        "h": 73,
+        "rad": 0,
+        "hour": 23,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -2,
+        "h": 71,
+        "rad": 0,
+        "hour": 0,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -2,
+        "h": 70,
+        "rad": 0,
+        "hour": 1,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -2,
+        "h": 70,
+        "rad": 0,
+        "hour": 2,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -2,
+        "h": 69,
+        "rad": 0,
+        "hour": 3,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -2,
+        "h": 70,
+        "rad": 0,
+        "hour": 4,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -2,
+        "h": 70,
+        "rad": 0,
+        "hour": 5,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -2,
+        "h": 71,
+        "rad": 0,
+        "hour": 6,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 70,
+        "rad": 0,
+        "hour": 7,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 70,
+        "rad": 0,
+        "hour": 8,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 69,
+        "rad": 0,
+        "hour": 9,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 0,
+        "h": 65,
+        "rad": 9.40348576631026,
+        "hour": 10,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 0,
+        "h": 60,
+        "rad": 62.8464512802991,
+        "hour": 11,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 1,
+        "h": 56,
+        "rad": 104.558203485662,
+        "hour": 12,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 1,
+        "h": 54,
+        "rad": 129.670726065306,
+        "hour": 13,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 1,
+        "h": 53,
+        "rad": 135.751265512234,
+        "hour": 14,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 1,
+        "h": 52,
+        "rad": 122.182922045657,
+        "hour": 15,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 1,
+        "h": 54,
+        "rad": 90.3255820349213,
+        "hour": 16,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 1,
+        "h": 56,
+        "rad": 43.2431265761383,
+        "hour": 17,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 0,
+        "h": 58,
+        "rad": 0,
+        "hour": 18,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 0,
+        "h": 60,
+        "rad": 0,
+        "hour": 19,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 62,
+        "rad": 0,
+        "hour": 20,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 64,
+        "rad": 0,
+        "hour": 21,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 63,
+        "rad": 0,
+        "hour": 22,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 63,
+        "rad": 0,
+        "hour": 23,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 63,
+        "rad": 0,
+        "hour": 0,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 66,
+        "rad": 0,
+        "hour": 1,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 69,
+        "rad": 0,
+        "hour": 2,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 72,
+        "rad": 0,
+        "hour": 3,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 75,
+        "rad": 0,
+        "hour": 4,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 77,
+        "rad": 0,
+        "hour": 5,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 80,
+        "rad": 0,
+        "hour": 6,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 82,
+        "rad": 0,
+        "hour": 7,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 83,
+        "rad": 0,
+        "hour": 8,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 84,
+        "rad": 0,
+        "hour": 9,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 85,
+        "rad": 9.82426265505072,
+        "hour": 10,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 0,
+        "h": 86,
+        "rad": 63.4562155938961,
+        "hour": 11,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 0,
+        "h": 87,
+        "rad": 105.338658095031,
+        "hour": 12,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 1,
+        "h": 89,
+        "rad": 130.622233286726,
+        "hour": 13,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 1,
+        "h": 91,
+        "rad": 136.856704597242,
+        "hour": 14,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 2,
+        "h": 94,
+        "rad": 123.408284768456,
+        "hour": 15,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 1,
+        "h": 95,
+        "rad": 91.6280452932301,
+        "hour": 16,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 1,
+        "h": 97,
+        "rad": 44.5722793484892,
+        "hour": 17,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": 0,
+        "h": 99,
+        "rad": 0,
+        "hour": 18,
+        "time": "day",
+        "season": "winter"
+    },
+    {
+        "t": -1,
+        "h": 99,
+        "rad": 0,
+        "hour": 19,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": -3,
+        "h": 99,
+        "rad": 0,
+        "hour": 20,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 24,
+        "h": 100,
+        "rad": 0,
+        "hour": 21,
+        "time": "night",
+        "season": "winter"
+    },
+    {
+        "t": 22,
+        "h": 99,
+        "rad": 0,
+        "hour": 22,
+        "time": "night",
+        "season": "winter"
+    }],
+    "summerStrat": [
+        {
+            "hour": 0,
+            "t": 14,
+            "h": 90
+        },
+        {
+            "hour": 1,
+            "t": 14,
+            "h": 90
+        },
+        {
+            "hour": 2,
+            "t": 14,
+            "h": 90
+        },
+        {
+            "hour": 3,
+            "t": 14,
+            "h": 90
+        },
+        {
+            "hour": 4,
+            "t": 14,
+            "h": 90
+        },
+        {
+            "hour": 5,
+            "t": 15.5,
+            "h": 85
+        },
+        {
+            "hour": 6,
+            "t": 17,
+            "h": 80
+        },
+        {
+            "hour": 7,
+            "t": 18.5,
+            "h": 75
+        },
+        {
+            "hour": 8,
+            "t": 20,
+            "h": 70
+        },
+        {
+            "hour": 9,
+            "t": 21.5,
+            "h": 68
+        },
+        {
+            "hour": 10,
+            "t": 23,
+            "h": 66
+        },
+        {
+            "hour": 11,
+            "t": 25,
+            "h": 65
+        },
+        {
+            "hour": 12,
+            "t": 25,
+            "h": 65
+        },
+        {
+            "hour": 13,
+            "t": 25,
+            "h": 65
+        },
+        {
+            "hour": 14,
+            "t": 25,
+            "h": 65
+        },
+        {
+            "hour": 15,
+            "t": 25,
+            "h": 65
+        },
+        {
+            "hour": 16,
+            "t": 25,
+            "h": 65
+        },
+        {
+            "hour": 17,
+            "t": 25,
+            "h": 65
+        },
+        {
+            "hour": 18,
+            "t": 23,
+            "h": 66
+        },
+        {
+            "hour": 19,
+            "t": 21.5,
+            "h": 68
+        },
+        {
+            "hour": 20,
+            "t": 20,
+            "h": 70
+        },
+        {
+            "hour": 21,
+            "t": 18.5,
+            "h": 75
+        },
+        {
+            "hour": 22,
+            "t": 17,
+            "h": 80
+        },
+        {
+            "hour": 23,
+            "t": 15.5,
+            "h": 85
+        }
+    ],
+    "winterStrat": [
+        {
+            "hour": 0,
+            "t": 18,
+            "h": 80
+        },
+        {
+            "hour": 1,
+            "t": 18,
+            "h": 80
+        },
+        {
+            "hour": 2,
+            "t": 18,
+            "h": 80
+        },
+        {
+            "hour": 3,
+            "t": 18,
+            "h": 80
+        },
+        {
+            "hour": 4,
+            "t": 18,
+            "h": 80
+        },
+        {
+            "hour": 5,
+            "t": 18,
+            "h": 80
+        },
+        {
+            "hour": 6,
+            "t": 18,
+            "h": 80
+        },
+        {
+            "hour": 7,
+            "t": 18,
+            "h": 80
+        },
+        {
+            "hour": 8,
+            "t": 20,
+            "h": 75
+        },
+        {
+            "hour": 9,
+            "t": 22,
+            "h": 70
+        },
+        {
+            "hour": 10,
+            "t": 22,
+            "h": 70
+        },
+        {
+            "hour": 11,
+            "t": 22,
+            "h": 70
+        },
+        {
+            "hour": 12,
+            "t": 22,
+            "h": 70
+        },
+        {
+            "hour": 13,
+            "t": 22,
+            "h": 70
+        },
+        {
+            "hour": 14,
+            "t": 22,
+            "h": 70
+        },
+        {
+            "hour": 15,
+            "t": 22,
+            "h": 70
+        },
+        {
+            "hour": 16,
+            "t": 20,
+            "h": 75
+        },
+        {
+            "hour": 17,
+            "t": 17.5,
+            "h": 80
+        },
+        {
+            "hour": 18,
+            "t": 15,
+            "h": 85
+        },
+        {
+            "hour": 19,
+            "t": 13,
+            "h": 90
+        },
+        {
+            "hour": 20,
+            "t": 13,
+            "h": 95
+        },
+        {
+            "hour": 21,
+            "t": 13,
+            "h": 95
+        },
+        {
+            "hour": 22,
+            "t": 13,
+            "h": 95
+        },
+        {
+            "hour": 23,
+            "t": 13,
+            "h": 95
+        }
+    ]
+}
