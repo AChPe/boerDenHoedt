@@ -1,0 +1,23 @@
+{
+  "name": "boerdenhoedt",
+  "version": "1.0.0",
+  "description": "API for Boer Den Hoedt Study",
+  "main": "index.js",
+  "dependencies": {
+    "stats-lite": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AChPe/boerDenHoedt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AChPe/boerDenHoedt/issues"
+  },
+  "homepage": "https://github.com/AChPe/boerDenHoedt#readme"
+}
