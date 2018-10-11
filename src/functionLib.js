@@ -43,13 +43,12 @@ function hourFilter(obj) {
 }
 
 /**
- * Function to filter the data points relating to a given hour (i.e. 0-23) from the pre-filtered seasonal Arrays (i.e. winterTime1 or summerTime1 arrays).
- * @param {float} obj  - The current object from the seasonal Array being scanned by the filter function.
- * @param {array} summerTime1 - Array containing the dataPoints from the overall payload that occur during the Summer Period.
- * @param {array} winterTime1 - Array containing the dataPoints from the overall payload that occur during the Winter Period.
- * @param {array} summerTime - Empty array where the hourly dataPoints (i.e. 0-23) for the Summer Season period will be stored.
- * @param {array} winterTime - Empty array where the hourly dataPoints (i.e. 0-23) for the Winter Season period will be stored.
- * @returns {Array} The filled summerTime and winterTime arrays containing the dataPoints from the respective seasonalArrays divided into hours. i.e. Array with 24 sub-arrays. Each sub-array contains all data points occuring in a given hour.
+ * Function to conduct all necessary cooling calculations based on a seasonalClimate strategy and the desire for a seasonal output format.
+ * @param {array} result  - The original climateData array containing all hourObjects for the year
+ * @param {array} summerStrat - Array containing the hourly desiredClimate strategy for the summer Period.
+ * @param {array} winterStrat - Array containing the hourly desiredClimate strategy for the winter Period.
+ * @returns {Object} Object with two properties (i.e. winter and summer). Each property contains an array of objects, where each object corresponds
+ * to a given hour (i.e. 0-23) in the day and contains all needed information to create the graphs.
  */
 
 function seasonalHourCooling(result, summerStrat, winterStrat) {
@@ -76,16 +75,19 @@ function seasonalHourCooling(result, summerStrat, winterStrat) {
     let winterFinal = winterTime.map((obj, index, array) => fL.seasonalCalculator(obj, index, array, winterStrat));
     let summerFinal = summerTime.map((obj, index, array) => fL.seasonalCalculator(obj, index, array, summerStrat));
 
-    console.log('winterFinal: ' + JSON.stringify(winterFinal));
-    console.log('summerFinal: ' + JSON.stringify(summerFinal));
+    // console.log('winterFinal: ' + JSON.stringify(winterFinal));
+    // console.log('summerFinal: ' + JSON.stringify(summerFinal));
+
+    return {winter: winterFinal, summer: summerFinal};
 }
 
-
 /**
- * Function to filter and divide the overall payload climateData array initially per month (i.e. 1- 12), and then divides every month into an array per hour (i.e. 0-23).
- * @param {float} obj  - The current object from the seasonal Array being scanned by the filter function.
- * @param {array} result - Array containing the climateData overall payload for the entire year
- * @returns {Array} The filled summerTime and winterTime arrays containing the dataPoints from the respective seasonalArrays divided into hours. i.e. Array with 24 sub-arrays. Each sub-array contains all data points occuring in a given hour.
+ * Function to conduct all necessary cooling calculations based on a seasonalClimate strategy and the desire for a monthly output format.
+ * @param {array} result  - The original climateData array containing all hourObjects for the year
+ * @param {array} summerStrat - Array containing the hourly desiredClimate strategy for the summer Period.
+ * @param {array} winterStrat - Array containing the hourly desiredClimate strategy for the winter Period.
+ * @returns {array} Array of 12 objects (i.e. per month). Each object (i.e. month) has two properties (i.e. month and result). The result property is an array of 24 objects (per hour), providing the needed
+ * information to generate the graphs on a monthly basis.
  */
 
 function monthlyHourCooling(result, winterStrat, summerStrat) {
