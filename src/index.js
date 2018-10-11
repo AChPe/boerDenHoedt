@@ -8,13 +8,10 @@ exports.boerDenHoedt = function boerDenHoedt(req, res) {
 
     // res.setHeader('Content-Type', 'application/json');
     // res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8888');
-    var results = [];
 
-    // const payload = require('../src/payload.json');
 
     try {
 
-        //  const f = require('./functions');
         const fL = require('./functionLib');
 
         const body = payload;
@@ -42,9 +39,5 @@ exports.boerDenHoedt = function boerDenHoedt(req, res) {
 
 };
 
-
-// //const standardization1 = require('./standardization');
-// const payload = require('../payload.json');
 const payload = require('../payload.json');
-// // const payload = require('./payload2.json');
 exports.boerDenHoedt({body : payload});
